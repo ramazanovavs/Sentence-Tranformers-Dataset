@@ -1,4 +1,4 @@
-Experimental settings for fine-tuning Sentence Transformers 
+Experimental settings for fine-tuning Sentence Transformers. 
 Training dataset: 
 To fine-tune the model, a multilingual skills training dataset was created containing 9,336 paraphrase pairs in Russian, English, and Kazakh, as well as an additional set of 3,095 pairs in Russian.
 Testing datasets: 
